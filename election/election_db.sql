@@ -1,0 +1,1 @@
+SELECT * FROM election_db.candidate;
